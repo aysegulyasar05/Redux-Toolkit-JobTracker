@@ -1,0 +1,184 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "Sweden",
+      "status": "Interview",
+      "type": "FullTime",
+      "date": "17/10/2020"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "TechCorp",
+      "location": "United States",
+      "status": "Applied",
+      "type": "PartTime",
+      "date": "20/10/2020"
+    },
+    {
+      "id": 3,
+      "position": "UI/UX Designer",
+      "company": "DesignHub",
+      "location": "Canada",
+      "status": "Offer",
+      "type": "FullTime",
+      "date": "25/10/2020"
+    },
+    {
+      "id": 4,
+      "position": "Data Scientist",
+      "company": "DataInsight",
+      "location": "Germany",
+      "status": "Applied",
+      "type": "Contract",
+      "date": "30/10/2020"
+    },
+    {
+      "id": 5,
+      "position": "Mobile App Developer",
+      "company": "AppTech",
+      "location": "France",
+      "status": "Interview",
+      "type": "FullTime",
+      "date": "05/11/2020"
+    },
+    {
+      "id": 6,
+      "position": "DevOps Engineer",
+      "company": "CloudOps",
+      "location": "United Kingdom",
+      "status": "Rejected",
+      "type": "FullTime",
+      "date": "10/11/2020"
+    },
+    {
+      "id": 7,
+      "position": "Project Manager",
+      "company": "TechProject",
+      "location": "Australia",
+      "status": "Offer",
+      "type": "FullTime",
+      "date": "15/11/2020"
+    },
+    {
+      "id": 8,
+      "position": "Quality Assurance Analyst",
+      "company": "QA Solutions",
+      "location": "Netherlands",
+      "status": "Applied",
+      "type": "Contract",
+      "date": "20/11/2020"
+    },
+    {
+      "id": 9,
+      "position": "Network Administrator",
+      "company": "NetConnect",
+      "location": "Spain",
+      "status": "Interview",
+      "type": "FullTime",
+      "date": "25/11/2020"
+    },
+    {
+      "id": 10,
+      "position": "Content Writer",
+      "company": "WordCraft",
+      "location": "Italy",
+      "status": "Rejected",
+      "type": "PartTime",
+      "date": "30/11/2020"
+    },
+    {
+      "id": 11,
+      "position": "Machine Learning Engineer",
+      "company": "AI Innovations",
+      "location": "Japan",
+      "status": "Applied",
+      "type": "FullTime",
+      "date": "05/12/2020"
+    },
+    {
+      "id": 12,
+      "position": "Cybersecurity Analyst",
+      "company": "SecureSys",
+      "location": "Switzerland",
+      "status": "Offer",
+      "type": "FullTime",
+      "date": "10/12/2020"
+    },
+    {
+      "id": 13,
+      "position": "Sales Representative",
+      "company": "SalesPro",
+      "location": "Brazil",
+      "status": "Interview",
+      "type": "PartTime",
+      "date": "15/12/2020"
+    },
+    {
+      "id": 14,
+      "position": "Financial Analyst",
+      "company": "FinTech",
+      "location": "India",
+      "status": "Applied",
+      "type": "FullTime",
+      "date": "20/12/2020"
+    },
+    {
+      "id": 15,
+      "position": "Customer Support Specialist",
+      "company": "SupportHub",
+      "location": "South Africa",
+      "status": "Offer",
+      "type": "FullTime",
+      "date": "25/12/2020"
+    },
+    {
+      "position": "HR",
+      "company": "Renk",
+      "location": "Munchen",
+      "status": "Interview",
+      "type": "FullTime",
+      "id": "a341eb50-241e-4f9c-adcd-5d2f4a6e8b95",
+      "date": "16.11.2023"
+    },
+    {
+      "position": "Test Enginer",
+      "company": "Zalando",
+      "location": "London",
+      "status": "Pending",
+      "type": "PartTime",
+      "id": "46890b17-fad1-42d2-8c79-47171e4b4722",
+      "date": "16.11.2023"
+    },
+    {
+      "position": "Sales Manager",
+      "company": "Kratzer",
+      "location": "Berlin",
+      "status": "Rejected",
+      "type": "FullTime",
+      "id": "c4aec586-38be-4957-b62f-632dfc90674c",
+      "date": "16.11.2023"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "BB",
+      "location": "France",
+      "status": "Interview",
+      "type": "FullTime",
+      "id": "a822f236-bbb7-4a3c-940b-1885deec27b9",
+      "date": "16.11.2023"
+    },
+    {
+      "position": "Project Manager",
+      "company": "Check24",
+      "location": "Ireland",
+      "status": "Pending",
+      "type": "FullTime",
+      "id": "cf72be6c-f4ea-4124-a83d-7267d59de273",
+      "date": "16.11.2023"
+    }
+  ]
+}
